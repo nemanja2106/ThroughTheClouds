@@ -1,0 +1,27 @@
+[
+	{
+		"file": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Source\\ThroughTheClouds\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\.vscode\\compileCommands_Default\\ThroughTheClouds.205.rsp",
+		"directory": "W:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Source\\ThroughTheClouds\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\.vscode\\compileCommands_Default\\ThroughTheClouds.205.rsp",
+		"directory": "W:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Source\\ThroughTheClouds\\ThroughTheClouds.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\.vscode\\compileCommands_Default\\ThroughTheClouds.205.rsp",
+		"directory": "W:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Source\\ThroughTheClouds\\ThroughTheClouds.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\.vscode\\compileCommands_Default\\ThroughTheClouds.205.rsp",
+		"directory": "W:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Source\\ThroughTheClouds\\ThroughTheClouds.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\.vscode\\compileCommands_Default\\ThroughTheClouds.205.rsp",
+		"directory": "W:\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

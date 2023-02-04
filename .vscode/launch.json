@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch ThroughTheClouds (Debug)",
+			"request": "launch",
+			"program": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "ThroughTheClouds Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheClouds (DebugGame)",
+			"request": "launch",
+			"program": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "ThroughTheClouds Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheClouds (Development)",
+			"request": "launch",
+			"program": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "ThroughTheClouds Win64 Development Build",
+			"args": [
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheClouds (Test)",
+			"request": "launch",
+			"program": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "ThroughTheClouds Win64 Test Build",
+			"args": [
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheClouds (Shipping)",
+			"request": "launch",
+			"program": "W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "ThroughTheClouds Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheCloudsEditor (Debug)",
+			"request": "launch",
+			"program": "W:\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "ThroughTheCloudsEditor Win64 Debug Build",
+			"args": [
+				"W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\ThroughTheClouds.uproject"
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheCloudsEditor (DebugGame)",
+			"request": "launch",
+			"program": "W:\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "ThroughTheCloudsEditor Win64 DebugGame Build",
+			"args": [
+				"W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\ThroughTheClouds.uproject"
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch ThroughTheCloudsEditor (Development)",
+			"request": "launch",
+			"program": "W:\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "ThroughTheCloudsEditor Win64 Development Build",
+			"args": [
+				"W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\ThroughTheClouds.uproject"
+			],
+			"cwd": "W:\\Epic Games\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "W:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "W:\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "W:\\Epic Games\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=W:\\MyGames\\ThroughTheClouds\\ThroughTheClouds\\ThroughTheClouds.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "W:\\Epic Games\\UE_5.0"
+		}
+	]
+}
